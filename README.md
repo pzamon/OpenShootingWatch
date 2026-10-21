@@ -1,2 +1,2 @@
 # OpenShootingWatch
-Little Test
+Hudson Shooting Watch for Commodore 64
